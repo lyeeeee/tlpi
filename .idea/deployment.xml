@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="120.26.184.16">
+  <component name="PublishConfigData" autoUpload="Always">
     <serverData>
-      <paths name="120.26.184.16">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/home/liyi/clionprojects/tlpi" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="MinGWRemoteAli (49ba1a58-f427-4735-8f8f-fa1956590961)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.4m7Q756tkq" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/liyi/CLionProjects/tlpi" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
           </excludedPaths>
         </serverdata>
